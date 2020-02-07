@@ -6,7 +6,7 @@
 
 > 不明白。
 
-> 操你妈。
+> (操你妈。)
 
 作为对 https://t.me/sakiblog/251 的回应，对「非言论自由环境的不满」。
 
@@ -15,6 +15,10 @@
 
 由于链接已无法访问，补图：
 ![](https://raw.githubusercontent.com/eatradish/say-no-tshirt/master/photo_2020-02-07_09-33-21.jpg)
+
+## 关于版本
+
+目前经建议，保留两个版本，一个版本为去掉脏话版，另一个版本为「原汁原味」版。
 
 ## 素材
 
