@@ -13,6 +13,9 @@
 相关链接：
 [李文亮事件](https://www.zhihu.com/question/370180141/answer/1002503693)
 
+由于链接已无法访问，补图：
+![](https://raw.githubusercontent.com/eatradish/say-no-tshirt/master/photo_2020-02-07_09-33-21.jpg)
+
 ## 素材
 
 目前还没有一个好的想法，欢迎对项目的任何地方发 PR!
